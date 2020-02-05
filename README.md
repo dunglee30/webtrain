@@ -2,6 +2,9 @@
 
 # TONG HOP MOT VAI VAN DE THUONG GAP VOI PHP VA MYSQL
 
+# Do thoi gian tiep xuc ngan voi php va mysql nen phan tong hop co the chua duoc day du nhu ki vong.
+# Trong thoi gian thuc tap se tiep tuc dao sau nghien cuu va ti hieu them.
+
 # 1. Nhung diem moi cua php7 
     - Su dung Zend engine hoan toan moi de thuc thi code
     
